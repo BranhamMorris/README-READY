@@ -1,4 +1,4 @@
 README-READY
 
 in this challenge:
-using node.js to create a readme generator
+I will be using node.js to create a readme generator
